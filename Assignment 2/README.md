@@ -1,4 +1,6 @@
-This is README  for the assignment 2
+<h1>This is README  for the assignment 2<h1>
+  
+<h2>Problem 1</h2>
 
 Answers to questions of the google form for Problem 1 challenge 1 <br>
 <li>Min = 22
@@ -14,7 +16,11 @@ Answers to questions of the google form for Problem 1 challenge 1 <br>
   Married customers have a higher median AvgMonthSpend than single customers.<br>
   Male customers have a higher median AvgMonthSpend than female customers.
 <li>Which of the following statements about BikeBuyer are true?<br>
- The median YearlyIncome is higher for customers who bought a bike than for customers who didn't.
+ The median YearlyIncome is higher for customers who bought a bike than for customers who didn't.<br>
 
+
+<h2>Problem 2</h2>
+
+<p> The files test.ipynb and train.ipynb are the required submissions for problem 2 </p>
   
 
